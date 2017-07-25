@@ -220,7 +220,7 @@
         "ContainerDefinitions": [
           {
             "Name": "jenkins",
-            "Image": "jmenga/jenkins:ecs",
+            "Image": "salle79/jenkins:ecs",
             "Memory": 800,
             "PortMappings": [
               {
